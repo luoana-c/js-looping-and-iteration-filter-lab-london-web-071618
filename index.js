@@ -2,6 +2,6 @@
 function findMatching(collection, name){
   let newCollection = [] 
   
-  collection.filter(function())
+  collection.filter(function(driver) driver = name)
   
 }
