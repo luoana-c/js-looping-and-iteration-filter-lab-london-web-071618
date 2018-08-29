@@ -1,4 +1,7 @@
 // Code your solution in this file
-function findMatching(callback){
+function findMatching(collection, name){
+  let newCollection = [] 
+  
+  collection.filter(function())
   
 }
